@@ -19,6 +19,8 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  color: #fff;
+  padding: 1rem;
 }
 
 .context img{
@@ -33,8 +35,19 @@
   margin-bottom: .5rem;
 }
 
-.context p a {
-  color: #fd8e09;
+.context p {
+  color: #fff;
+  text-align: center;
+}
+
+
+.context a {
+  margin-top: 2rem;
+  background-color: #fd8e09;
+  color: #fff;
+  padding: 9px 19px;
+  border-radius: 10px;
+  text-decoration: none;
 }
 
 .area {
