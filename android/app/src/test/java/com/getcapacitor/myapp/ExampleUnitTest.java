@@ -1,4 +1,4 @@
-package com.getcapacitor.myapp;
+package com.getcapacitor.parkingya;
 
 import static org.junit.Assert.*;
 
