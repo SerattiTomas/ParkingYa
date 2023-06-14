@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ParkingYa</string>
+    <string name="title_activity_main">ParkingYa</string>
+    <string name="package_name">oemspot.parkingya</string>
+    <string name="custom_url_scheme">oemspot.parkingya</string>
+</resources>
